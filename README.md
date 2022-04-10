@@ -8,3 +8,7 @@ for examples
 
 
 * credit to https://stackoverflow.com/questions/49200566/function-for-compositions-in-python
+
+
+## Warning 
+Repeat_num has no effect on compositions it just returns compositions
